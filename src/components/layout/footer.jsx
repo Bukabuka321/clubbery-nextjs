@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Footer = () => {
 	return (
-		<div className="w-full bg-transparent  text-white px-5">
+		<div className="w-full bg-transparent  text-white mt-10 px-5">
 			<div className="flex flex-col items-center border-y border-slate-600 py-8 gap-y-8">
 				<div className="hover:scale-95 transition duration-200">
 					<Link href="/">

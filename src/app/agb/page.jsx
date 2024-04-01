@@ -10,8 +10,8 @@ export default function AGB() {
         <meta name="keywords" content="Aachen App, AGB" />
       </Head> */}
 
-			<main className="text-white">
-				<section className="pt-32 max-w-[800px] mb-8">
+			<main className="text-white mt-24">
+				<section className="max-w-[800px] mb-8">
 					<h1 className="text-3xl md:text-5xl">AGB</h1>
 				</section>
 

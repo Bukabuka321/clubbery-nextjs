@@ -10,7 +10,7 @@ const Impressum = () => {
           <meta name="keywords" content="Aachen App, Impressum" />
         </Head> */}
 
-			<main className="text-white my-24">
+			<main className="text-white mt-24">
 				<section className="max-w-[800px]">
 					<h1 className="text-3xl md:text-5xl mb-5">Impressum</h1>
 				</section>

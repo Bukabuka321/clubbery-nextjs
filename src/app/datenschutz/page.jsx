@@ -10,7 +10,7 @@ export default function Datenschutzerklaerung() {
         <meta name="keywords" content="Aachen App, Mitwirkende" />
       </Head> */}
 
-			<main className="text-white my-24">
+			<main className="text-white mt-24">
 				<section className="max-w-[800px]">
 					<h1 className="text-3xl md:text-5xl mb-5">Datenschutzerklärung</h1>
 					<p className="leading-6 my-2 text-gray-300 mb-5">Hier wird genauer erläutert, welche Daten von der App erhoben und wie diese verarbeitet werden. Wenn nach dem Lesen noch Fragen offen bleiben, stehen wir mit unserem Support Ihnen zur Verfügung.</p>
