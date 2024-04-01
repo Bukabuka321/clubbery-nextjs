@@ -20,7 +20,7 @@ const Header = () => {
 				<Link href="/">
 					<Image src="/clubbery_logo.png" alt="Clubbery Logo Image" width={45} height={50} />
 				</Link>
-				<ul className="hidden md:flex flex-row justify-between items-center list-none gap-x-12 text-base">
+				<ul className="hidden md:flex flex-row justify-between items-center list-none gap-x-5 lg:gap-x-12 text-base">
 					<li>
 						<Link href="/not-found">So funktioniert Clubbery</Link>
 					</li>
@@ -34,7 +34,7 @@ const Header = () => {
 						<Link href="/not-found">Download Clubbery</Link>
 					</li>
 				</ul>
-				<div className="lg:hidden block">
+				<div className="block md:hidden">
 					<button type="button" onClick={() => handleOnClick()}>
 						{menu ? <AiOutlineClose className="text-white w-7 h-7" /> : <RxHamburgerMenu className="text-white w-10 h-10 " />}
 					</button>
